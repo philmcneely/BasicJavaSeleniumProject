@@ -1,0 +1,1 @@
+Copy the Selenium folder to C:\Windows
