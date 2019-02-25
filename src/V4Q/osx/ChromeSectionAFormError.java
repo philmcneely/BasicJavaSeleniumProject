@@ -1,4 +1,4 @@
-package V4Q;
+package V4Q.osx;
 
 import java.util.List;
 

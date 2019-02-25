@@ -1,6 +1,6 @@
 Do this from the command line in this directory
 
-cp ./geckodriver /usr/local/bin/ 
-cp ./chromedriver /usr/local/bin/ 
-chmod 777  /usr/local/bin/geckodriver
-chmod 777  /usr/local/bin/chromedriver
+sudo cp ./geckodriver /usr/local/bin/ 
+sudo cp ./chromedriver /usr/local/bin/ 
+sudo chmod 777  /usr/local/bin/geckodriver
+sudo chmod 777  /usr/local/bin/chromedriver
